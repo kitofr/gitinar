@@ -1,6 +1,8 @@
-========= Gitinar ========= 
+Gitinar
+===================
 
-== Forking ==
+Forking
+-------
 
 0. Read up on forking a repository on: http://help.github.com/fork-a-repo/
 1. Add the forked repository as a remote repository named "upstream"
@@ -8,7 +10,8 @@
 
 2. Fetch the latest from [upstream]
 
-== Working/Collaborating ==
+Working/Collaborating
+---------------------
 
 3. Be creative! Create a couple of files, change this file and do some "funky" stuff.
    - What does $ git diff say?
@@ -19,7 +22,8 @@
 
 6. Explore how to use $ git log and it's formats
 
-== Working with remotes ==
+Working with remotes
+--------------------
 
 7. Make some more changes
 
@@ -29,7 +33,8 @@
 
 10. Push your changes to github where did they end up?
 
-== Pull request == 
+Pull request
+------------
 
 11. Pull (or fetch/merge) from [upstream]
 
@@ -40,7 +45,8 @@
 14. Interact on github on other pull requests and leave some comments
     on other commits
 
-== Extras == 
+Extras
+------
 
 * Investigate what else you can do on github. 
   - Follow your fellow collegues and see what they are up to
