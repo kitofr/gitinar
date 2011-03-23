@@ -53,3 +53,6 @@ Extras
   - Look for interesting projects to follow/fork
   - Help out!
 
+Slides
+------
+  - http://portal.sliderocket.com/APEIH/gitinar2011 
