@@ -1,3 +1,17 @@
+< Hello Kristoffer thank's for the Cintinar!  >
+ -----------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+
+
 Gitinar -- Tim was here and checked this file out
 ===================
 
